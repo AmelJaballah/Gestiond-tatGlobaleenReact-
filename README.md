@@ -16,7 +16,7 @@ L’objectif est d’aider à **choisir la solution la plus adaptée** selon la 
 - **Redux Toolkit** : standard moderne pour les applications complexes, avec `createSlice`, `createAsyncThunk`, un `store` centralisé et un `Provider` React-Redux offrant une structure claire pour actions, reducers et logique asynchrone.  
 - **Zustand** : librairie légère basée sur un store créé avec `create`, sans Provider global, qui permet de définir state, actions et fonctions async dans un seul fichier concis.  
 
-## 4. Architecture dans ce projet
+## 4.  Dans ce projet
 
 ### useContext
 
